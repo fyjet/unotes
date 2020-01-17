@@ -12,19 +12,19 @@ Cette méthode est déclinable sous de nombreuses formes et outils. Lorsque le m
 Deux avantages:
 - on gardera un archivage classé et cohérent des messages (principe: garder une trace de tout ce qui est échangé)
 - on disposera d'un tableau de bord des choses à faire, selon le principe de GTD
-![outlook](../assets/img/outlook3.png)
+![outlook](/assets/img/outlook3.png)
 en utilisant les outils proposés par défaut dans MSOutlook et de manière simple
 
 L'organnisation proposée se fait pour chaque boite mail.
 
 # Configuration de chaque boite mail
 Dans l'option de navigation "Courrier"
-![outlook](../assets/img/outlook1.png)
+![outlook](/assets/img/outlook1.png)
 Créer des répertoire, sous répertoires d'archivage, tri. 
 Configurer les règles qui conviennent
 
 # Créer des catégories (par couleur):
-![outlook](../assets/img/outlook2.png)
+![outlook](/assets/img/outlook2.png)
 - enAttente: ce courrier est en attente du retour de son destinataire
 - suivant: a traiter
 - téléphoner: appeler l'émetteur
