@@ -4,6 +4,7 @@ title: PlatformIO
 date: "2020-01-12 14:55"
 categories:
   - programming
+comments: true
 ---
 
 # Change project directory
