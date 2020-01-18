@@ -4,6 +4,7 @@ title: Syncthing on low resources computer
 date: "2020-01-12 14:55"
 categories:
   - linux
+comments: true
 ---
 
 On low resources like banapi, some tuning alow syncthing to run without swapping and using all resources
