@@ -387,7 +387,7 @@ han: false
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: unotes-1
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true

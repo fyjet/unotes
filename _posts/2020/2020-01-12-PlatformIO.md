@@ -1,11 +1,15 @@
 ---
 layout: post
 title: PlatformIO
+date: "2020-01-12 14:55"
 categories:
-- programming
+  - programming
 ---
+
 # Change project directory
+
 Project default location is **~/Documents/PlatformIO/Project**, see [PlatfomIO documentation](http://docs.platformio.org/en/latest/userguide/cmd_settings.html#projects-dir)
+
 ```
 user@computer$ platformio settings get
 Name                       Current value [Default]                                  Description
@@ -21,7 +25,9 @@ force_verbose              No                                              Force
 projects_dir               /home/user/Documents/PlatformIO/Projects        Default location for PlatformIO projects (PIO Home) [/home/user/Documents/PlatformIO/Projects]
 strict_ssl                 No                                              Strict SSL for PlatformIO Services
 ```
+
 Move PlatformIO dorectory to /home/user
+
 ```
 user@computer$ platformio settings set projects_dir /home/user/PlatformIO/Projects
 ```
