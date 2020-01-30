@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-comments: true
+comments: false
 ---
 
 # Computing and programming
