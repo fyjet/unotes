@@ -6,17 +6,17 @@ tags: [fsuipc, fsx]
 categories:
 - tutorial
 ---
-# How to talk with your simulator ?
+# How to speak with your simulator ?
 
 Add-ons developper or cockpit builders have to access flight simulator variables, to mange or display them. If coding is not your cup of tea, you can use OpenCockpit software for example, a “simple” GUI to interract with hardware provided by this site.
 
-If you are not affraid by coding, many existing libraries and tools are available to talk with your favorite flight simulator. I will present solutions for MS Flight Simulator, Flight Gear and X-Plane, using C++ language in code examples.
+If you are not affraid by coding, many existing libraries and tools are available to speak with your favorite flight simulator. I will present solutions for MS Flight Simulator, Flight Gear and X-Plane, using C++ language in code examples.
 
 # MS Flight Simulator
 
 MS Flight simulator variables can be asscessed using multiple tools. Peter Dowson’s FSUIPC is a very common interface to read/write Flight Simulator 2000/2002/2004/X and Combat Flight simulators variables. It is well documented, stable and used by a large community of simers and developpers.
 
-Help and support is provided directly by Peter Dowson (many thanks for your job and for your help Pete!). Two versions of FSUIPC are available: Free and registred. A second usefull tool working with FSUIPC is WideFS. WideFS allow to send FS values via the network to another computer (many cockpit builder are using a ‘cluster’ for their simulator: one PC is managing flight model and display, one (or more) is managing intruments panel, and one is managing vocal communications).
+Help and support are provided directly by Peter Dowson (many thanks for your job and for your help Pete!). Two versions of FSUIPC are available: Free and registred. A second usefull tool working with FSUIPC is WideFS. WideFS allow to send FS values via the network to another computer (many cockpit builder are using a ‘cluster’ for their simulator: one PC is managing flight model and display, one (or more) is managing intruments panel, and one is managing vocal communications).
 Each variable is identified by an Offset (offset is the address of the variable) and a type. Just refer to this offset in your program, and read or write it (some variables are read only).
 
 Variable type is very important. If not set correctly, result will be very strange…
