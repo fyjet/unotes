@@ -8,7 +8,7 @@ comments: false
 
 [Grafana](http://192.168.1.250/grafana/){:target="_blank"}  
 Owntracks [Bertrand](http://192.168.1.249/map/?trackerID=Be){:target="_blank"} [Stephanie](http://192.168.1.249/map/?trackerID=St){:target="_blank"}  
-Musique[webdav](http://192.168.1.249/dav/music/){:target="_blank"} [web](http://192.168.1.249/fm/){:target="_blank"} *compte music*
+Musique [webdav](http://192.168.1.249/dav/music/){:target="_blank"} [web](http://192.168.1.249/fm/){:target="_blank"} *compte music*
 
 # Cameras
 [NVR](http://192.168.1.199/){:target="_blank"}  
@@ -20,6 +20,7 @@ Musique[webdav](http://192.168.1.249/dav/music/){:target="_blank"} [web](http://
 [NodeRed Bastion](http://192.168.1.249:1880/){:target="_blank"} | [NodeRed Courtine](http://192.168.1.250:1880/){:target="_blank"} *compte admin*  
 
 # Consoles
+[Mysql](hppt://192.168.1.249/sql/){:target="_blank"}
 [Zabbix](http://192.168.1.250/zabbix/){:target="_blank"}
 [Gitea](http://192.168.1.250/git/){:target="_blank"}  
 [GitLab](https://gitlab.com/Fyjet){:target="_blank"}  
