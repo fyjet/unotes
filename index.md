@@ -8,7 +8,7 @@ comments: false
 
 [Grafana](http://192.168.1.250/grafana/){:target="_blank"}  
 Owntracks [Bertrand](http://192.168.1.249/map/?trackerID=Be){:target="_blank"} [Stephanie](http://192.168.1.249/map/?trackerID=St){:target="_blank"}  
-Musique [webdav](http://192.168.1.249/dav/music/){:target="_blank"} [web](http://192.168.1.249/fm/){:target="_blank"} *compte music*
+Musique [webdav](http://192.168.1.249/dav/music/){:target="_blank"} [web](http://192.168.1.249/fm/){:target="_blank"} *compte music*  
 [Gitea](http://192.168.1.250/git/){:target="_blank"}  
 [Telegram web](https://web.telegram.org/){:target="_blank"}  
 
@@ -21,7 +21,6 @@ Musique [webdav](http://192.168.1.249/dav/music/){:target="_blank"} [web](http:/
 <option value="rtsp://admin:admin@192.168.1.202/live0.264">Piscine</option>
 </select>  
 [NVR](http://192.168.1.199/){:target="_blank"}  
-[Allee](rtsp://admin:admin@192.168.1.200/live0.264){:target="_blank"} | [Chemin](rtsp://admin:admin@192.168.1.201/live0.264) | [Piscine](rtsp://admin:admin@192.168.1.202/live0.264){:target="_blank"}  
 [Alertes](http://192.168.1.249/securite/index.php){:target="_blank"}
 
 # Consoles
