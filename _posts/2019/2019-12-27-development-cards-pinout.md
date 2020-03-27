@@ -10,19 +10,19 @@ categories:
 ---
 # Arduino
 ## Leonardo
-![Arduino Leonardo](/assets/img/pinout_Arduino_leonardo.png)
+![Arduino Leonardo](/unotes/assets/img/pinout_Arduino_leonardo.png)
 ## Pro mini
-![Arduino Pro mini](/assets/img/pinout_Arduino_Pro_Mini.png)
+![Arduino Pro mini](/unotes/assets/img/pinout_Arduino_Pro_Mini.png)
 ## Mega2560
-![Arduino Mega2560](/assets/img/pinout_Arduino-Mega2560.jpg)
+![Arduino Mega2560](/unotes/assets/img/pinout_Arduino-Mega2560.jpg)
 
 # Esressif
 ## Esp8266 E12
 IDE Card name: NodeMCU 1.0
 CPU: espressif 8266
-![Esp8266E12](/assets/img/pinout_esp8266_e12.png)
+![Esp8266E12](/unotes/assets/img/pinout_esp8266_e12.png)
 ## Esp32 WROOM
 IDE Card name: Esp32 dev board
 CPU: espressif 32
-![Esp32](/assets/img/pinout_esp32_wroom.jpg)
+![Esp32](/unotes/assets/img/pinout_esp32_wroom.jpg)
 
