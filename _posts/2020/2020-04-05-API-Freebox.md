@@ -9,7 +9,9 @@ comments: true
 https://framagit.org/sun/pyfbx
 
 # Installation
+```bash
 pip3 install pyfbx
+```
 
 # Accès
 Créer le token
@@ -30,8 +32,8 @@ pyfbx -t f:/etc/pyfbx/token.txt -u http://mafreebox.freebox.fr -c 'Wifi.Get_the_
 ## Ecriture
 ```bash
 pyfbx -t f:/etc/pyfbx/token.txt -u http://mafreebox.freebox.fr -c 'Wifi.
-```
 Update_the_WiFi_global_configuration(post_data={"enabled":True})'
+```
 
 # Configuration de zabbix
 Dans /etc/zabbix/scripts, créer le script freebox.sh avec les paramètres maxrate ou wifi
