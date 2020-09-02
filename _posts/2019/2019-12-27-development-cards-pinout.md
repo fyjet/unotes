@@ -26,3 +26,10 @@ IDE Card name: Esp32 dev board
 CPU: espressif 32
 ![Esp32](/unotes/assets/img/pinout_esp32_wroom.jpg)
 
+# Sensors
+## DHT11 Temperature/Humidity sensor
+![DHT11](/unotes/assets/img/pinout_dht11.jpg)
+
+# Radio
+## 433 Mhz emitter
+![433 Emitter](/unotes/assets/img/pinout_433-MHz-RF-Transmitter-Module.jpg)
